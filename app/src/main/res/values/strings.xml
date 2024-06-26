@@ -1,3 +1,76 @@
 <resources>
     <string name="app_name">Test Effective</string>
+    <string name="plane_ticket">Авиабилеты</string>
+    <string name="hotel">Отели</string>
+    <string name="place">Короче</string>
+    <string name="subscription">Подписки</string>
+    <string name="profile">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_is_null_binding_main_fragment">FragmentMainBinding is null</string>
+    <string name="text_is_null_binding_plug_fragment">PlugFragment is null</string>
+    <string name="text_is_null_binding_search_place_selected_place_fragment">
+        FragmentSearchPlaceSelectedBinding is null
+    </string>
+    <string name="text_is_null_binding_show_all_tickets_fragment">
+        FragmentShowAllTicketsBinding is null
+    </string>
+    <string name="plug_text">plug</string>
+    <string name="text_search_ticket">Поиск дешевых авиабилетов</string>
+    <string name="text_from_moscow">Откуда - Москва</string>
+    <string name="text_to_turkey">Куда - Турция</string>
+    <string name="text_error_no_implements_interface">
+        Must implements interface NavigateHelper
+    </string>
+    <string name="text_fly_away_musically">Музыкально отлететь</string>
+    <string name="text_error">Error</string>
+    <string name="text_show_all_place">Показать все места</string>
+    <string name="text_hard_way">Сложный маршрут</string>
+    <string name="text_anywhere">Куда угодно</string>
+    <string name="text_weekend">Выходные</string>
+    <string name="text_hot_ticket">Горячие билеты</string>
+    <string name="text_istanbul">Стамбул</string>
+    <string name="text_popular_way">Популярное направление</string>
+    <string name="text_sochi">Сочи</string>
+    <string name="text_phuket">Пхукет</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_back_place">обратно</string>
+    <string name="text_filter">фильтры</string>
+    <string name="text_time_zone_msk">Europe/Moscow</string>
+    <string name="abbreviated_text_sunday">вс</string>
+    <string name="abbreviated_text_monday">пн</string>
+    <string name="abbreviated_text_tuesday">вт</string>
+    <string name="abbreviated_text_wednesday">ср</string>
+    <string name="abbreviated_text_thursday">чт</string>
+    <string name="abbreviated_text_friday">пт</string>
+    <string name="abbreviated_text_saturday">сб</string>
+    <string name="abbreviated_text_june">июнь,</string>
+    <string name="abbreviated_text_july">июль,</string>
+    <string name="abbreviated_text_august">авг,</string>
+    <string name="abbreviated_text_september">сен,</string>
+    <string name="abbreviated_text_october">окт,</string>
+    <string name="abbreviated_text_november">ноя,</string>
+    <string name="abbreviated_text_december">дек,</string>
+    <string name="abbreviated_text_may">май,</string>
+    <string name="abbreviated_text_april">апр,</string>
+    <string name="abbreviated_text_march">март,</string>
+    <string name="abbreviated_text_february">фев,</string>
+    <string name="abbreviated_text_january">янв,</string>
+    <string name="text_straight_rails">Прямые рельсы</string>
+    <string name="text_show_all">Показать все</string>
+    <string name="text_show_all_tickets">Посмотреть все билеты</string>
+    <string name="full_text_january">января</string>
+    <string name="full_text_february">февраля</string>
+    <string name="full_text_march">марта</string>
+    <string name="full_text_april">апреля</string>
+    <string name="full_text_may">мая</string>
+    <string name="full_text_june">июня</string>
+    <string name="full_text_july">июля</string>
+    <string name="full_text_august">августа</string>
+    <string name="full_text_september">сентября</string>
+    <string name="full_text_october">октября</string>
+    <string name="full_text_november">ноября</string>
+    <string name="full_text_december">декабря</string>
+    <string name="text_one_filter">Фильтр</string>
+    <string name="text_graph_price">График цен</string>
 </resources>

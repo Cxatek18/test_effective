@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/plane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:color="@color/gray_6"
+        android:icon="@drawable/plane"
+        android:title="@string/plane_ticket"
+         />
+
+    <item
+        android:id="@+id/hotel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:color="@color/gray_6"
+        android:icon="@drawable/hotel"
+        android:title="@string/hotel" />
+
+    <item
+        android:id="@+id/place"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:color="@color/gray_6"
+        android:icon="@drawable/place"
+        android:title="@string/place" />
+
+    <item
+        android:id="@+id/subscription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:color="@color/gray_6"
+        android:icon="@drawable/subscription"
+        android:title="@string/subscription" />
+
+    <item
+        android:id="@+id/profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:color="@color/gray_6"
+        android:icon="@drawable/profile"
+        android:title="@string/profile" />
+</menu>

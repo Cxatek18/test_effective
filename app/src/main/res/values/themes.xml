@@ -1,8 +1,25 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
-    <style name="Base.Theme.TestEffective" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.TestEffective" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        Customize your light theme here.
+        <item name="colorPrimary">@color/black_project</item>
+        <item name="colorPrimaryDark">@color/black_project</item>
+        <item name="bottomNavigationStyle">@style/MyBottomNavigationView</item>
+    </style>
+
+    <style name="MyBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemBackground">
+            @drawable/bottom_navbar_item_background
+        </item>
+        <item name="itemTextAppearanceActive">
+            @style/MyBottomNavigationViewTextAppearance
+        </item>
+        <item name="itemTextAppearanceInactive">
+            @style/MyBottomNavigationViewTextAppearance
+        </item>
+        <item name="fontFamily">
+            @font/sf_pro_display_regular
+        </item>
     </style>
 
     <style name="Theme.TestEffective" parent="Base.Theme.TestEffective" />
